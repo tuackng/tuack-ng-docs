@@ -170,7 +170,7 @@ export default withMermaid(
         label: '本页目录'
       },
 
-      socialLinks: [{ icon: 'github', link: 'https://github.com/tuack-ng/tuack-ng' }],
+      socialLinks: [{ icon: 'github', link: 'https://github.com/tuackng/tuack-ng' }],
 
       footer: {
         copyright: 'Copyright © 2025-2026 <a href="https://github.com/tuack-ng">Tuack-NG Develop Team</a> | Licensed under CC-BY 4.0'
@@ -186,7 +186,7 @@ export default withMermaid(
       },
 
       editLink: {
-        pattern: 'https://github.com/tuack-ng/tuack-ng-docs/edit/main/docs/:path',
+        pattern: 'https://github.com/tuackng/tuack-ng-docs/edit/main/docs/:path',
         text: '在 GitHub 上编辑此页'
       }
     }

@@ -3,7 +3,7 @@ title: 获取调试信息
 description: 获取 Tuack-NG 的调试信息。
 ---
 
-在使用 Tuack-NG 的过程中，您可以通过 [向开发者提交 Issue](https://github.com/tuack-ng/tuack-ng/issues/new/choose) 等方式反馈问题。在这时，您可能会被要求提交应用运行时的调试信息。本文教授您如何获取这些信息。
+在使用 Tuack-NG 的过程中，您可以通过 [向开发者提交 Issue](https://github.com/tuackng/tuack-ng/issues/new/choose) 等方式反馈问题。在这时，您可能会被要求提交应用运行时的调试信息。本文教授您如何获取这些信息。
 
 ## 获取日志
 

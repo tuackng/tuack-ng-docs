@@ -6,7 +6,7 @@ Tuack-NG 目前支持 Linux 和 Windows，其他操作系统可能可用，但�
 
 ## Debian 及衍生版（如 Ubuntu）
 
-在 [Tuack-NG 的 Release 界面](https://github.com/tuack-ng/tuack-ng/releases) 下载 deb 安装包，并使用以下方法安装：
+在 [Tuack-NG 的 Release 界面](https://github.com/tuackng/tuack-ng/releases) 下载 deb 安装包，并使用以下方法安装：
 
 ```bash
 apt install [下载下来的安装包名字].deb
@@ -48,7 +48,7 @@ makepkg -si
 > 这种方法也许兼容 MacOS，但开发者没有设备测试，仅供参考。
 
 ```bash
-nix profile add github:tuack-ng/tuack-ng
+nix profile add github:tuackng/tuack-ng
 ```
 
 ## 其他发行版

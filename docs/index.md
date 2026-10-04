@@ -17,7 +17,7 @@ hero:
       icon: lightbulb
     - theme: alt
       text: GitHub 仓库
-      link: https://github.com/tuack-ng/tuack-ng/
+      link: https://github.com/tuackng/tuack-ng/
 
 features:
   - title: 🚀 速度快

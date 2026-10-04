@@ -24,7 +24,7 @@ export default {
     // 配置 Giscus 评论系统
     giscusTalk(
       {
-        repo: 'tuack-ng/tuack-ng-docs',
+        repo: 'tuackng/tuack-ng-docs',
         repoId: 'R_kgDOQqSNeg',
         category: 'Announcements',
         categoryId: 'DIC_kwDOQqSNes4C0Rv7',

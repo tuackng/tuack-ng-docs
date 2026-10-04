@@ -78,4 +78,4 @@
 >
 > 关于 MiniJinja 的更多语法，详见 <https://docs.rs/minijinja/latest/minijinja/syntax/index.html>
 >
-> `problem` 的数据结构可在 <https://github.com/tuack-ng/tuack-ng/blob/master/src/config/problem.rs> 查看，同时我们提供了 [JSON Schema](https://gist.github.com/Pulsar33550336/ece6e5f24a760be04b3fb5c7b9b6fe16)（由 DeepSeek 编写，可能不准确）。
+> `problem` 的数据结构可在 <https://github.com/tuackng/tuack-ng/blob/master/crates/tuack-config/src/config/problem.rs> 查看，同时我们提供了 [JSON Schema](https://gist.github.com/Pulsar33550336/ece6e5f24a760be04b3fb5c7b9b6fe16)（由 DeepSeek 编写，可能不准确）。

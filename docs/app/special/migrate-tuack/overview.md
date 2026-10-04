@@ -5,7 +5,7 @@ description: 将你的工程从 Tuack 迁移到 Tuack-NG。
 
 ## 摘要
 
-我们提供了 [Tuack Migrater](https://github.com/tuack-ng/Tuack-Migrater) 来辅助您进行迁移。
+我们提供了 [Tuack Migrater](https://github.com/tuackng/Tuack-Migrater) 来辅助您进行迁移。
 
 但是**迁移过程并非完全自动化**，您需要手动执行一些操作。
 
