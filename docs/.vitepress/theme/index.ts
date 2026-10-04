@@ -25,9 +25,9 @@ export default {
     giscusTalk(
       {
         repo: 'tuackng/tuack-ng-docs',
-        repoId: 'R_kgDOQqSNeg',
+        repoId: 'R_kgDOU6_ULw',
         category: 'Announcements',
-        categoryId: 'DIC_kwDOQqSNes4C0Rv7',
+        categoryId: 'DIC_kwDOU6_UL84DG_6j',
         mapping: 'pathname',
         inputPosition: 'top',
         lang: 'zh-CN',
