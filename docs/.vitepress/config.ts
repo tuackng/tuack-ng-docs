@@ -52,7 +52,8 @@ export default withMermaid(
       },
 
       nav: [
-        { text: '参考文档', link: '/app/install' },
+        { text: '参考文档', link: '/app/install', activeMatch: '/app/' },
+        { text: '社区', link: '/community/', activeMatch: '/community/' },
       ],
       sidebar: {
         '/': [
@@ -163,6 +164,12 @@ export default withMermaid(
             ]
           },
         ],
+        '/community/': [
+          { text: '讨论社区', link: '/community/' },
+          { text: '社区规范', link: '/community/rules' },
+          { text: '贡献指南', link: '/community/contributing' },
+          { text: '社区文章', link: '/community/web-articles' },
+        ],
       },
       /* 右侧大纲配置 */
       outline: {
@@ -173,7 +180,7 @@ export default withMermaid(
       socialLinks: [{ icon: 'github', link: 'https://github.com/tuackng/tuack-ng' }],
 
       footer: {
-        copyright: 'Copyright © 2025-2026 <a href="https://github.com/tuack-ng">Tuack-NG Develop Team</a> | Licensed under CC-BY 4.0'
+        copyright: 'Copyright © 2025-2026 <a href="https://github.com/tuack-ng">Tuack-NG Develop Team</a> | Licensed under CC BY-NC-SA 4.0'
       },
 
       darkModeSwitchLabel: '外观',
